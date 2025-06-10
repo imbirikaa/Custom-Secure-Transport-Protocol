@@ -17,7 +17,6 @@ The system provides a hands-on implementation of low-level networking concepts b
 This repository contains the complete source code for the client, server, and a Man-in-the-Middle (MITM) attack simulation tool.
 
 
-*(Suggestion: Create a GIF showing all three GUIs running)*
 
 ---
 
